@@ -9,5 +9,5 @@ declare(strict_types=1);
  * @license  https://github.com/simple-swoole/simps/blob/master/LICENSE
  */
 return [
-    ['POST', '/api/erobot/getDistributePositionInfo', '\App\Controllers\ERobotController@getDistributePositionInfo'],
+    ['POST', '/api/hello', '\App\Controllers\HelloController@index'],
 ];
