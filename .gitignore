@@ -1,0 +1,5 @@
+.idea
+vendor
+.vscode
+tests
+composer.lock
